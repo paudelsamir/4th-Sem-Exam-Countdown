@@ -1,6 +1,6 @@
 # Day X - Exam Countdown
 
-- **Date**: Kartik XX, 2081 (YYYY-MM-DD)
+- **Date**: Kartik XX, 2081
 - **Days Remaining**: X
 
 ## Study Focus/ Notes
