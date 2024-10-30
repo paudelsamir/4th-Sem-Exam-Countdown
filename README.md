@@ -1,6 +1,10 @@
 # CSIT 4th Semester Exam Countdown - Study Log
 
-Welcome to my daily study log for the **CSIT 4th Semester Board Exams**!!!!<br> This repository will track my preparation progress with a countdown format, from Kartik 14, 2081 to the day before exams start on Mangshir 14, 2081. Each day has a dedicated folder with study notes, resources, and goals.
+Welcome to my daily study log for the **CSIT 4th Semester Board Exams** <br>
+
+> *Should i do it? YESSS, it gives me motivation*
+
+<br> This repository will track my preparation progress with a countdown format, from Kartik 14, 2081 to the day before exams start on Mangshir 14, 2081. Each day has a dedicated folder with study notes, resources, and goals.
 
 ## Structure
 
